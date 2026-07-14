@@ -1,0 +1,73 @@
+Your example is in the format Jugaad Concept → Description → Benefits → Materials Used → Limitations. Since your project is about improving a bad software UI design, here's a version matching that format.
+
+
+---
+
+Jugaad Concept
+
+The existing file upload portal has a poor user interface that makes the upload process confusing and inefficient. A simple redesign was created using basic UI/UX principles without changing the backend functionality. The improved interface organizes the layout, adds useful action buttons (Preview, Download, Delete Upload, Cancel Upload), displays multiple batches clearly, and provides better spacing. This is an example of frugal innovation (Jugaad), where a better user experience is achieved through thoughtful interface design rather than expensive software redevelopment.
+
+Description
+
+The original file upload page has a plain layout with poor alignment, limited options, and only a single batch visible at a time. Users cannot preview uploaded files, download them for verification, or cancel an accidental upload. The redesigned interface groups related components together, provides adequate spacing, supports multiple batch selections, and introduces additional controls such as Preview, Download, Delete Upload, and Cancel Upload. These improvements make the application more user-friendly, reduce user errors, and improve overall efficiency without modifying the core functionality of the system.
+
+Photograph: (Attach the original UI and the redesigned sketch.)
+
+Benefits
+
+Improved user experience through a clean and organized layout.
+
+Better visibility of available batches.
+
+Added Preview option to verify files before submission.
+
+Download option for checking uploaded files.
+
+Delete Upload option to remove incorrect uploads.
+
+Cancel Upload option to stop accidental submissions.
+
+Proper spacing and alignment improve readability.
+
+Reduces user confusion and minimizes upload errors.
+
+Achieves better usability without changing the backend system.
+
+
+Materials Used
+
+Existing file upload webpage
+
+A4 paper
+
+Pencil
+
+Scale (Ruler)
+
+Eraser
+
+Black pen/marker
+
+
+Limitations
+
+Only the user interface is redesigned; backend functionality remains unchanged.
+
+Additional features require implementation by developers.
+
+Does not address server-side performance or security issues.
+
+Actual effectiveness depends on proper software development and testing.
+
+
+This description matches your uploaded bad design (first image) and good design (second image) and is suitable for submission.
+
+Sure! Here are shorter versions like your sample.
+
+Jugaad Concept (3 lines)
+
+The existing file upload portal was redesigned using simple UI/UX improvements without changing its functionality. The new design organizes the layout, adds useful buttons, and improves navigation. This low-cost improvement enhances usability and reduces user confusion.
+
+Description (3 lines)
+
+The original upload page had a cluttered layout with limited options, making it difficult to use. The redesigned interface includes better spacing, multiple batch selection, and features like Preview, Download, Delete Upload, and Cancel Upload. These changes make the file upload process simpler, faster, and more user-friendly.
